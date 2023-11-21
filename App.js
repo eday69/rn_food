@@ -12,8 +12,3 @@ const navigator = createStackNavigator({
 });
 
 export default createAppContainer(navigator);
-
-// Yelp API credentials
-// Client ID
-// t0iDiQAB-f_emr9q9ZLIOQ
-
